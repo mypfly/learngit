@@ -5,4 +5,4 @@ Git track a modify
 I am a coder
 I love it
 create a new branch dev
-creating the new branch is quick and simple
+creating a new branch is quick and simple
