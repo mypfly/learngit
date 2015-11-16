@@ -6,3 +6,5 @@ I am a coder
 I love it
 create a new branch dev
 creating a new branch is quick and simple
+manager some 分支
+
